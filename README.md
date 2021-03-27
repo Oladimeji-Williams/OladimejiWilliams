@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently learning Data Science and Software Engineering
 - 💞️ I’m looking to collaborate on Data Science and Software Engineering
-- 📫 OladimejiWilliams@outlook.com|+2347035924817
 
 <!---
 Oladimeji-Williams/Oladimeji-Williams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

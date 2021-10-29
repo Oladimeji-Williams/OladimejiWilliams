@@ -2,7 +2,7 @@ Hi there!
 **Oladimeji Williams** is my name.
 ![Williams Picture](https://github.com/Oladimeji-Williams/images/blob/92408ff899d0ae4eb777d4e95b1c7858979eea10/IMG_1262.jpg)
 
-This repository highlights some of the Data Science projects I have completed in my career until now. They are presented in the form of iPython Notebooks.
+This repository highlights some of the Data Science projects I have completed in my career until now.
 
 # PROJECT 1: 
   **[HR Analytics Classification](https://github.com/Oladimeji-Williams/HRAnalyticsClassification)**

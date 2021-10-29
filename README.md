@@ -1,6 +1,6 @@
 Hi there!
 **Oladimeji Williams** is my name.
-<img src="https://github.com/Oladimeji-Williams/images/blob/92408ff899d0ae4eb777d4e95b1c7858979eea10/IMG_1262.jpg" width = "500" height="500"/>
+<img src="https://github.com/Oladimeji-Williams/images/blob/92408ff899d0ae4eb777d4e95b1c7858979eea10/IMG_1262.jpg" width = "700" height="500"/>
 
 This repository highlights some of the Data Science projects I have completed in my career until now. They are presented in the form of iPython Notebooks.
 

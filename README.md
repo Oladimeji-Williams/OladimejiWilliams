@@ -1,3 +1,7 @@
+Hi there!
+**Oladimeji Williams** is my name.
+
+
 This repository highlights some of the Data Science projects I have completed in my career until now. They are presented in the form of iPython Notebooks.
 
 # PROJECT 1: 

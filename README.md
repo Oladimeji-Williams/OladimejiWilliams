@@ -13,4 +13,4 @@ organisation - a process faster than if HR human personnel were do it, with fewe
 
 # PROJECT 2:
   **[Bank Data](https://github.com/Oladimeji-Williams/Data-Science-ML-With-AiLeadTech)**
-  * In this project, you fill find solutions to all the practice questions on Python when I started learning Python programming language for Data Science. It also contains a very short analysis of a [Bank Data] on **[here](https://github.com/Oladimeji-Williams/Data-Science-ML-With-AiLeadTech/blob/main/bankdata_new.ipynb).**
+  * In this project, you fill find solutions to all the practice questions on Python when I started learning Python programming language for Data Science. It also contains a very short analysis of a Bank Data on **[here](https://github.com/Oladimeji-Williams/Data-Science-ML-With-AiLeadTech/blob/main/bankdata_new.ipynb).**

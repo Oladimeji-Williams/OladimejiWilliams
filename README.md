@@ -91,8 +91,9 @@ Automation
 
 A comprehensive full-stack financial modelling platform demonstrating complete software engineering architecture from data layer to UI.
 
-**Repository**  
-https://github.com/Oladimeji-Williams/FinShark
+**Repositories**  
+- Frontend: https://github.com/Oladimeji-Williams/FinShark-Frontend
+- Backend: https://github.com/Oladimeji-Williams/FinShark-Backend
 
 **Tech Stack**
 - **Frontend:** React.js, Next.js
